@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:kwik_mandi/constants.dart';
-import 'package:kwik_mandi/screens/home/home.dart';
-import 'package:kwik_mandi/utils.dart';
+import 'package:hyperhire/utils.dart';
+
+
+import 'constants.dart';
+import 'screens/home/home.dart';
 
 void main() {
   runApp(const MyApp());

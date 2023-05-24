@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kwik_mandi/components/textDisplay.dart';
 
 import '../constants.dart';
+import 'textDisplay.dart';
 
 class CustomTab extends StatefulWidget {
   const CustomTab({Key? key, required this.header, this.add, required this.wd})

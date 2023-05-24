@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:kwik_mandi/utils.dart';
+
 
 import '../../constants.dart';
+import '../../utils.dart';
 import 'homeScreenBody.dart';
 
 class HomeScreen extends StatefulWidget {
